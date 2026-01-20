@@ -281,7 +281,7 @@ export default function SignatureGenerator() {
                                     <tr>
                                       <td style={{ paddingRight: "10px" }}>
                                         <a
-                                          href="https://facebook.com/comehometoafrica"
+                                          href="https://www.facebook.com/comehometoafrica"
                                           target="_blank"
                                           rel="noopener noreferrer"
                                           style={{ textDecoration: "none" }}
@@ -296,7 +296,7 @@ export default function SignatureGenerator() {
                                       </td>
                                       <td style={{ paddingRight: "10px" }}>
                                         <a
-                                          href="https://instagram.com/comehometoafrica"
+                                          href="https://www.instagram.com/comehome2af/"
                                           target="_blank"
                                           rel="noopener noreferrer"
                                           style={{ textDecoration: "none" }}
