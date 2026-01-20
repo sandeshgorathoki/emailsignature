@@ -8,9 +8,9 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 import { Copy, Check } from "lucide-react"
 
 export default function SignatureGenerator() {
-  const [name, setName] = useState("Brahim Adam")
-  const [position, setPosition] = useState("Civil Designer")
-  const [email, setEmail] = useState("brahim@comehometoafrica.com")
+  const [name, setName] = useState("")
+  const [position, setPosition] = useState("")
+  const [email, setEmail] = useState("")
   const [copied, setCopied] = useState(false)
   const signatureRef = useRef<HTMLDivElement>(null)
 
