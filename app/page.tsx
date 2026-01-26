@@ -142,7 +142,7 @@ export default function SignatureGenerator() {
                                     </tr>
                                     <tr>
                                       <td width={20}><img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" width={12} /></td>
-                                      <td>215 South Liberation Link, Accra Ghana</td>
+                                      <td>66 Abdoul HASSER AVE RIDGE, ACCRA, GHANA | GR-078-0067 </td>
                                     </tr>
                                     <tr>
                                       <td width={20}><img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width={12} /></td>
