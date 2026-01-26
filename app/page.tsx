@@ -134,11 +134,11 @@ export default function SignatureGenerator() {
                                   <tbody>
                                     <tr>
                                       <td width={20}><img src="https://cdn-icons-png.flaticon.com/512/597/597177.png" width={12} /></td>
-                                      <td>705-408-3583</td>
+                                      <td>+1 705-408-3583 | +233 53-701-8901</td>
                                     </tr>
                                     <tr>
                                       <td width={20}><img src="https://cdn-icons-png.flaticon.com/512/484/484167.png" width={12} /></td>
-                                      <td>1 (888) 510-1057</td>
+                                      <td>+1 888-510-1057</td>
                                     </tr>
                                     <tr>
                                       <td width={20}><img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" width={12} /></td>
