@@ -148,6 +148,10 @@ export default function SignatureGenerator() {
                                       <td>+1 888-510-1057</td>
                                     </tr>
                                     <tr>
+                                      <td width={20}><img src="https://cdn-icons-png.flaticon.com/128/3670/3670051.png" width={12} /></td>
+                                      <td>+1 647-749-2509</td>
+                                    </tr>
+                                    <tr>
                                       <td width={20}><img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" width={12} /></td>
                                       <td>4th Floor - 66 Abdoul HASSER AVE RIDGE, ACCRA, GHANA | GR-078-0067 </td>
                                     </tr>
